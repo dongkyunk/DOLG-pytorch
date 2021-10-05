@@ -1,5 +1,5 @@
 
-# Pytorch Implementation of Deep Local Feature (DeLF)
+# Pytorch Implementation of Deep Orthogonal Fusion of Local and Global Features (DOLG)
 
 This is the unofficial PyTorch Implementation of "DOLG: Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features"
 
