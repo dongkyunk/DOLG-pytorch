@@ -3,7 +3,7 @@ import os
 
 class Config:
     DATA_DIR = 'data'
-    CSV_PATH = os.path.join(DATA_DIR, 'train.csv')
+    CSV_PATH = os.path.join(DATA_DIR, 'train_clean.csv')
     train_batch_size = 10
     val_batch_size = 10
     num_workers = 8
