@@ -9,6 +9,8 @@ reference: https://arxiv.org/pdf/2108.02927.pdf
 ## Prerequisites
 
 + PyTorch
++ PyTorch Lightning
++ timm
 + python3
 + CUDA
 
