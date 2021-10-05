@@ -1,7 +1,7 @@
 
 # Pytorch Implementation of Deep Local Feature (DeLF)
 
-PyTorch Implementation of "DOLG: Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features"
+This is the unofficial PyTorch Implementation of "DOLG: Single-Stage Image Retrieval with Deep Orthogonal Fusion of Local and Global Features"
 
 reference: https://arxiv.org/pdf/2108.02927.pdf
 
@@ -11,6 +11,10 @@ reference: https://arxiv.org/pdf/2108.02927.pdf
 + PyTorch
 + PyTorch Lightning
 + timm
++ sklearn
++ pandas
++ jpeg4py
++ albumentations
 + python3
 + CUDA
 
