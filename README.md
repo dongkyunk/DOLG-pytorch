@@ -5,6 +5,9 @@ This is the unofficial PyTorch Implementation of "DOLG: Single-Stage Image Retri
 
 reference: https://arxiv.org/pdf/2108.02927.pdf
 
+## Model Structure
+
+![Image](https://github.com/tanzeyy/DOLG-instance-retrieval/raw/main/imgs/figure2.png)
 
 ## Prerequisites
 
