@@ -90,7 +90,7 @@ class DolgNet(LightningModule):
     def __init__(self, input_dim, hidden_dim, output_dim, num_of_classes):
         super().__init__()
         self.cnn = timm.create_model(
-            'resnet101',
+            'tv_resnet101',
             pretrained=True,
             features_only=True,
             in_chans=input_dim,
